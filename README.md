@@ -22,11 +22,15 @@ Objetivos Específicos
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-
+![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/1.jpg)
+![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/2.jpg)
+![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/3.jpg)
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-
+![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/4.jpg)
+![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/5.jpg)
+![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/6.jpg)
 
 **5. VIDEO**
 
