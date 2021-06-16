@@ -47,3 +47,6 @@ https://youtu.be/0rjBpIa9YqU
 
 **7.BIBLIOGRAFÍA**
 
+Bibliografía
+ Robbins, A. H., & Miller, W. C. (n.d.). Análisis de ciruitos, Teoria y practica (S. R. C. González (ed.); 4th ed.). http://latinoamerica.cengage.com
+
