@@ -8,7 +8,7 @@
 
 **1. OBJETIVOS**
 
-Objetivo General
+Objetivos Generales
 
 
 - Analizar la definición de nodos ,además de identificarlos junto con sus ecuaciones.
@@ -16,6 +16,10 @@ Objetivo General
 - Aplicar el método de resolución de voltajes por nodos de la ley de kirchoff y el principio de corriente eléctrica de la ley de ohm.
 
 Objetivos Específicos
+
+- Dimensionar y seleccionar los equipos a utilizar para el diseño y construcción de un módulo didáctico 
+- Encontrar los voltajes en los circuitos aplicando el análisis de nodos y otras leyes de la corriente.
+- Confrontar los datos teóricos calculados con los datos prácticos.
 
 **2. MARCO TEORICO**
 ![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/Laboratorio%203.jpg)
