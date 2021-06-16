@@ -10,6 +10,11 @@
 
 Objetivo General
 
+
+- Analizar la definición de nodos ,además de identificarlos junto con sus ecuaciones.
+
+- Aplicar el método de resolución de voltajes por nodos de la ley de kirchoff y el principio de corriente eléctrica de la ley de ohm.
+
 Objetivos Específicos
 
 **2. MARCO TEORICO**
