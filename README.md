@@ -13,6 +13,7 @@ Objetivo General
 Objetivos Específicos
 
 **2. MARCO TEORICO**
+![](https://github.com/Anabeltoapanta/LABORATORIO-3/blob/main/Laboratorio%203.jpg)
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
