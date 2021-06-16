@@ -45,7 +45,7 @@ https://youtu.be/0rjBpIa9YqU
 
 Se logro vusalizar y marcar correctamente el sentido de la corriente, para este caso lo hicimos de la forma estándar en donde nos dicen que el sentido de la corriente va del polo positivo al polo negativo, así evitamos tomar intensidades y voltajes erróneos que nos provocarán obtener como resultado voltajes incorrectos.
 
-Se pudo medir el voltaje en un nodo tomamos como referencia el negativo del circuito y el positivo del multimetro lo conectamos al nodo de forma paralela y asi obtuvimos una medidas correctas las cuáles nos ayudaron a afirmar los datos calculados.
+Se pudo medir el voltaje en un nodo tomamos como referencia el negativo del circuito y el positivo del multimetro lo conectamos al nodo de forma paralela y asi obtuvimos medidas correctas las cuáles nos ayudaron a afirmar los datos calculados.
 
 
 **7.BIBLIOGRAFÍA**
