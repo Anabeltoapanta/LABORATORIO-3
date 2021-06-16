@@ -43,6 +43,8 @@ https://youtu.be/0rjBpIa9YqU
 
 **6. CONCLUSIONES**
 
+Se logro vusalizar y marcar correctamente el sentido de la corriente, para este caso lo hicimos de la forma estándar en donde nos dicen que el sentido de la corriente va del polo positivo al polo negativo, así evitamos tomar intensidades y voltajes erróneos que nos provocarán obtener como resultado voltajes incorrectos.
+
 
 
 **7.BIBLIOGRAFÍA**
